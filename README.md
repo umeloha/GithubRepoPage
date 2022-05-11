@@ -1,5 +1,5 @@
 # GithubRepoPage
 
-##Challenge:
-### To create a minimalist version of a GitHub repositories page using react using the GITHUB API.
+## Aim:
+### To create a minimalist version of a GitHub repositories page using react and the GITHUB API.
 
